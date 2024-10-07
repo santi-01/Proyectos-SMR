@@ -1,0 +1,82 @@
+body{
+    background-color: lightcyan;
+}
+.logo{
+    width: 99%;
+    height:300px;
+    border-width: 8px;
+    border-color: black;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-radius:5px;
+}
+.bloquecoins{
+    display: block;
+    float: left;
+    border: 5px;
+    background-color: ;
+    border-color:black;
+    border-style: solid;
+    border-radius: 5px;
+    width: 30%;
+    
+}
+.hcoins{
+    background-color: rgb(254, 100, 100);
+}
+.imgcoin{
+    width: 325px;
+    margin-left: 10px;
+}
+p.pcoin{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(255, 130, 255)
+}
+
+.mencion{
+    float: ;
+    margin-top:100px;
+}
+.personajes{
+display: block;
+    float: right;
+    border: 5px;
+    background-color: ;
+    border-color:black;
+    border-style: solid;
+    border-radius: 5px;
+    width: 65%;
+    height:500px ;
+}
+.hmary{
+    background-color: rgb(254, 100, 100);
+    font-size: ;
+}
+.maryimg{
+    display: block;
+    height: 90px;
+    width: 65px;
+    margin-left: 10px;
+}
+.pmary{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(255, 130, 255)
+}
+.haustin{
+    background-color: rgb(254, 100, 100);
+}
+.austinimg{
+    display: block;
+    height: 90px;
+    width: 65px;
+    margin-left: 10px;
+}
+.paustin{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(255, 130, 255)
+}
