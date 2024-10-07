@@ -1,0 +1,121 @@
+body{
+    background-color: black;
+}
+.hpersonajes{
+    text-align: center;
+    background-image: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+.hdiv{
+    text-align: center;
+    background-image: linear-gradient(
+    90deg, 
+    #FFB3BA, /* Rosa pastel */
+    #FFDFBA, /* Melocotón pastel */
+    #FFFFBA, /* Amarillo pastel */
+    #BAFFC9, /* Verde menta */
+    #BAE1FF, /* Azul cielo */
+    #E0BBFF  /* Lavanda */
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+  font-size: 20px; /* Ajusta el tamaño según necesites */
+  font-weight: bold;
+}
+img{
+    display: block;
+    border: 3px dotted whitesmoke;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 3px;
+    width: 125px;
+    height: 150px;
+}
+.divalegria{
+    display: block;
+    float: left;
+    width:22%;
+    height:500px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    padding: 5px;
+}
+.halegria{
+    color: aliceblue;
+    text-align: center;
+}
+.palegria{
+    color: aliceblue;
+    text-align: center;
+    
+}
+a{
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 15px;
+    background-color:whitesmoke;
+    width: 50%;
+    color: black;
+}
+
+.divtristeza{
+    display: block;
+    float: left;
+    width:22%;
+    height:500px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    padding: 5px;   
+}
+.htristeza{
+    color: aliceblue;
+    text-align: center;
+}
+.ptristeza{
+    color: aliceblue;
+    text-align: center;
+}
+
+.divira{
+    display: block;
+    float: left;
+    width:22%;
+    height:500px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    padding: 5px;
+}
+.hira{
+    color: aliceblue;
+    text-align: center;
+}
+.pira{
+    color: aliceblue;
+    text-align: center;
+}
+
+.divasco{
+    display: block;
+    float: left;
+    width:22%;
+    height:500px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+.hasco{
+    color: aliceblue;
+    text-align: center;
+}
+.pasco{
+    color: aliceblue;
+    text-align: center;
+}
